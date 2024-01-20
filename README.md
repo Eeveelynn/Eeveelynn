@@ -1,12 +1,7 @@
 - 👋 Hi, I’m @Eeveelynn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in cats, science and front end
+- 🌱 I’m currently learning JavaScript and back end
+- 💞️ I’m looking to collaborate on any proyect
 - 📫 How to reach me https://twitter.com/SFluoxetin63953
 - 😄 Pronouns: she/her/they/them
-- ⚡ Fun fact: ...
-
-<!---
-Eeveelynn/Eeveelynn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ Fun fact: i have adhd
